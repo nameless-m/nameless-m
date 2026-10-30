@@ -44,4 +44,11 @@
 
 <p align="center">
   <!-- Streak de Contribuições -->
-  <img src="
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nameless-m&theme=gruvbox&hide_border=true&background=1d2021" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FE8019&center=true&vCenter=true&width=435&lines=%3Acolorscheme+gruvbox;Code.compile();Build.deploy()" alt="Typing SVG" />
+</p>

@@ -1,40 +1,54 @@
-<div align="center">
+<p align="center">
+  <img src="tempestade(3).gif" width="100%" alt="Storm Banner"/>
+</p>
 
-<img src="banner.gif" width="100%" alt="Tempestade" />
+<h1 align="center" style="color: #fe8019;">Olá, Mundo! ⚡ Sou o [Teu Nome]</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CFD8E8&center=true&vCenter=true&width=450&lines=Rog%C3%A9rio+Manzano;Estudante+de+Engenharia+de+Software;Back-end+com+Java+e+Spring;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+<p align="center">
+  <em><code>:set background=dark</code> | Software Developer & Neovim Enthusiast</em>
+</p>
 
-![Java](https://img.shields.io/badge/Java-141a22?style=for-the-badge&logo=openjdk&logoColor=cfd8e8)
-![Spring](https://img.shields.io/badge/Spring_Boot-141a22?style=for-the-badge&logo=springboot&logoColor=cfd8e8)
-![React](https://img.shields.io/badge/React-141a22?style=for-the-badge&logo=react&logoColor=cfd8e8)
-![Angular](https://img.shields.io/badge/Angular-141a22?style=for-the-badge&logo=angular&logoColor=cfd8e8)
-![Neovim](https://img.shields.io/badge/Neovim-141a22?style=for-the-badge&logo=neovim&logoColor=cfd8e8)
+---
 
-<img src="divider.svg" width="100%" alt="" />
+### 🌩️ Sobre Mim
 
-</div>
+* 🔭 Atualmente a focar-me em criar aplicações robustas e limpas.
+* ⌨️ Minimalista adepto de terminal, Linux e workflows otimizados com Neovim.
+* ⚡ Curioso por arquitetura de software, performance e automação.
+* 📫 Podes contactar-me através do [teu-email@exemplo.com] ou [LinkedIn](https://linkedin.com/in/teu-perfil).
 
-## ⚡ Sobre mim
+---
 
-Estudo Engenharia de Software na Unifio e tenho foco em back-end com Java e Spring Boot, mas também mexo com React, React Native e Angular. Gosto de resolver problemas e de experimentar linguagem nova.
+### 🛠️ Stack Tecnológica
 
-<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-## 🌩️ Meus projetos
+---
 
-<div align="center">
+### 📊 Estatísticas no GitHub (Gruvbox Mode)
 
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=nameless-m&repo=REPO_1&bg_color=141a22&title_color=cfd8e8&text_color=d8dae0&icon_color=cfd8e8&border_color=2f3b4c)](https://github.com/nameless-m/REPO_1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=nameless-m&repo=REPO_2&bg_color=141a22&title_color=cfd8e8&text_color=d8dae0&icon_color=cfd8e8&border_color=2f3b4c)](https://github.com/nameless-m/REPO_2)
+<p align="center">
+  <!-- Cartão de Estatísticas Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_UTILIZADOR&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1d2021" alt="GitHub Stats" />
+  
+  <!-- Linguagens Mais Utilizadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_UTILIZADOR&layout=compact&theme=gruvbox&hide_border=true&bg_color=1d2021" alt="Top Langs" />
+</p>
 
-</div>
+<p align="center">
+  <!-- Streak de Contribuições -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_UTILIZADOR&theme=gruvbox&hide_border=true&background=1d2021" alt="GitHub Streak" />
+</p>
 
-<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
+---
 
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=nameless-m&show_icons=true&bg_color=141a22&title_color=cfd8e8&text_color=d8dae0&icon_color=cfd8e8&border_color=2f3b4c)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2733,100:4a5d78&height=100&section=footer" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FE8019&center=true&vCenter=true&width=435&lines=%3Acolorscheme+gruvbox;Code.compile();Build.deploy()" alt="Typing SVG" />
+</p>

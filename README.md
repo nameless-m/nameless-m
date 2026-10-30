@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center"> <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/tempestade.gif" width="100%" alt="Tempestade" />
 
-<!--
-**nameless-m/nameless-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Show Image
 
-Here are some ideas to get you started:
+Typing SVG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Show Image
+
+</div>
+⚡ Sobre mim
+
+Estudo Engenharia de Software na Unifio e tenho foco em back-end com Java e Spring Boot, mas também mexo com React, React Native e Angular. Gosto de resolver problemas e de experimentar linguagem nova.
+
+🌩️ Meus projetos
+Nome do projeto: descrição curta do que ele faz e as tecnologias usadas
+Outro projeto: descrição curta
+<div align="center">
+
+Show Image
+
+Show Image
+
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d0d0f,3a3a40,6b7280&height=100&section=footer" width="100%" />

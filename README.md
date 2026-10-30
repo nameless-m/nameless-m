@@ -18,7 +18,7 @@
 
 Estudo Engenharia de Software na Unifio e tenho foco em back-end com Java e Spring Boot, mas também mexo com React, React Native e Angular. Gosto de resolver problemas e de experimentar linguagem nova.
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 🌩️ Meus projetos
 
@@ -37,7 +37,7 @@ Estudo Engenharia de Software na Unifio e tenho foco em back-end com Java e Spri
   </tr>
 </table>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 

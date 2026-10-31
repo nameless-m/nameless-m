@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="154" viewBox="0 0 860 154" role="img" aria-label="Stack: Java, Quarkus, Spring Boot, Hibernate, PostgreSQL, OpenAPI, React, React Native, Angular, Neovim, Lua, Git, Maven">
+<style>text{font-family:'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}.d{animation:dot 9000ms linear infinite}@keyframes dot{0.000%{fill:#4a5d78}56.600%{fill:#4a5d78}56.667%{fill:#4a5d78}57.933%{fill:#4a5d78}58.000%{fill:#4e617e}58.600%{fill:#4e617e}58.667%{fill:#748bbd}59.267%{fill:#748bbd}59.333%{fill:#506482}59.933%{fill:#506482}60.000%{fill:#596d90}60.600%{fill:#596d90}60.667%{fill:#9db8ff}61.267%{fill:#9db8ff}61.333%{fill:#6b81ad}61.933%{fill:#6b81ad}62.000%{fill:#6b81ae}62.600%{fill:#6b81ae}62.667%{fill:#4d607d}63.267%{fill:#4d607d}63.333%{fill:#9db8ff}63.933%{fill:#9db8ff}64.000%{fill:#576b8d}67.333%{fill:#4a5d78}100.000%{fill:#4a5d78}}
+@media (prefers-reduced-motion:reduce){.d{animation:none}}</style>
+<text x="4" y="31.5" font-size="13" fill="#74869f" textLength="62.4">back-end</text>
+<rect x="140.0" y="13.0" width="65.2" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="155.0" cy="27.0" r="3" fill="#4a5d78"/>
+<text x="166.0" y="31.5" font-size="13" fill="#cfd8e8" textLength="31.2">Java</text>
+<rect x="215.2" y="13.0" width="88.6" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="230.2" cy="27.0" r="3" fill="#4a5d78"/>
+<text x="241.2" y="31.5" font-size="13" fill="#cfd8e8" textLength="54.6">Quarkus</text>
+<rect x="313.8" y="13.0" width="119.8" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="328.8" cy="27.0" r="3" fill="#4a5d78"/>
+<text x="339.8" y="31.5" font-size="13" fill="#cfd8e8" textLength="85.8">Spring Boot</text>
+<rect x="443.6" y="13.0" width="104.2" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="458.6" cy="27.0" r="3" fill="#4a5d78"/>
+<text x="469.6" y="31.5" font-size="13" fill="#cfd8e8" textLength="70.2">Hibernate</text>
+<rect x="557.8" y="13.0" width="112.0" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="572.8" cy="27.0" r="3" fill="#4a5d78"/>
+<text x="583.8" y="31.5" font-size="13" fill="#cfd8e8" textLength="78.0">PostgreSQL</text>
+<rect x="679.8" y="13.0" width="88.6" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="694.8" cy="27.0" r="3" fill="#4a5d78"/>
+<text x="705.8" y="31.5" font-size="13" fill="#cfd8e8" textLength="54.6">OpenAPI</text>
+<line x1="0" y1="52" x2="860" y2="52" stroke="#2f3b4c" stroke-opacity=".55"/>
+<text x="4" y="81.5" font-size="13" fill="#74869f" textLength="70.2">front-end</text>
+<rect x="140.0" y="63.0" width="73.0" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="155.0" cy="77.0" r="3" fill="#4a5d78"/>
+<text x="166.0" y="81.5" font-size="13" fill="#cfd8e8" textLength="39.0">React</text>
+<rect x="223.0" y="63.0" width="127.6" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="238.0" cy="77.0" r="3" fill="#4a5d78"/>
+<text x="249.0" y="81.5" font-size="13" fill="#cfd8e8" textLength="93.6">React Native</text>
+<rect x="360.6" y="63.0" width="88.6" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="375.6" cy="77.0" r="3" fill="#4a5d78"/>
+<text x="386.6" y="81.5" font-size="13" fill="#cfd8e8" textLength="54.6">Angular</text>
+<line x1="0" y1="102" x2="860" y2="102" stroke="#2f3b4c" stroke-opacity=".55"/>
+<text x="4" y="131.5" font-size="13" fill="#74869f" textLength="85.8">ferramentas</text>
+<rect x="140.0" y="113.0" width="80.8" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="155.0" cy="127.0" r="3" fill="#4a5d78"/>
+<text x="166.0" y="131.5" font-size="13" fill="#cfd8e8" textLength="46.8">Neovim</text>
+<rect x="230.8" y="113.0" width="57.4" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="245.8" cy="127.0" r="3" fill="#4a5d78"/>
+<text x="256.8" y="131.5" font-size="13" fill="#cfd8e8" textLength="23.4">Lua</text>
+<rect x="298.2" y="113.0" width="57.4" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="313.2" cy="127.0" r="3" fill="#4a5d78"/>
+<text x="324.2" y="131.5" font-size="13" fill="#cfd8e8" textLength="23.4">Git</text>
+<rect x="365.6" y="113.0" width="73.0" height="28" rx="14" fill="#141a22" stroke="#2f3b4c"/>
+<circle class="d" cx="380.6" cy="127.0" r="3" fill="#4a5d78"/>
+<text x="391.6" y="131.5" font-size="13" fill="#cfd8e8" textLength="39.0">Maven</text>
+</svg>

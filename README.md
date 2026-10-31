@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/banner.webp" alt="Rogério Manzano, estudante de Engenharia de Software" width="100%" />
+  <img src="assets/tempestade.gif" alt="Tempestade" width="100%" />
+  <img src="assets/hero.svg" alt="Rogério Manzano, estudante de Engenharia de Software" width="100%" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />

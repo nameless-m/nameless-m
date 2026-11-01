@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="160" viewBox="0 0 430 160" role="img" aria-label="unistore: API REST para uma loja virtual: clientes, produtos e pedidos. Quarkus e PostgreSQL.">
+<defs><clipPath id="c"><rect x="1" y="1" width="428" height="158" rx="8"/></clipPath></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}.bd{animation:border 4140ms linear infinite}@keyframes border{0.000%{stroke:#2f3b4c}7.101%{stroke:#2f3b4c}7.246%{stroke:#2f3b4c}12.899%{stroke:#2f3b4c}13.043%{stroke:#364355}15.797%{stroke:#364355}15.942%{stroke:#818fab}18.696%{stroke:#818fab}18.841%{stroke:#384457}21.594%{stroke:#384457}21.739%{stroke:#445165}24.493%{stroke:#445165}24.638%{stroke:#c9d9ff}27.391%{stroke:#c9d9ff}27.536%{stroke:#6c7992}30.290%{stroke:#6c7992}30.435%{stroke:#76849e}33.188%{stroke:#76849e}33.333%{stroke:#354153}36.087%{stroke:#354153}36.232%{stroke:#c9d9ff}38.986%{stroke:#c9d9ff}39.130%{stroke:#475468}46.377%{stroke:#2f3b4c}100.000%{stroke:#2f3b4c}}
+@media (prefers-reduced-motion:reduce){.bd{animation:none}}</style>
+<rect x="1" y="1" width="428" height="158" rx="8" fill="#141a22"/>
+<g clip-path="url(#c)"><rect x="0" y="0" width="4" height="160" fill="#e0925a"/></g>
+<text x="26" y="44" font-size="19" font-weight="700" fill="#e8eef8" textLength="91.2">unistore</text>
+<text x="26" y="74" font-size="12.5" fill="#aeb9cc" textLength="307.5">API REST para uma loja virtual: clientes,</text>
+<text x="26" y="95" font-size="12.5" fill="#aeb9cc" textLength="307.5">produtos e pedidos. Quarkus e PostgreSQL.</text>
+<rect x="26" y="112" width="48.4" height="24" rx="12" fill="none" stroke="#2f3b4c"/>
+<text x="37" y="128" font-size="11" fill="#8fa0ba" textLength="26.4">Java</text>
+<rect x="82.4" y="112" width="68.2" height="24" rx="12" fill="none" stroke="#2f3b4c"/>
+<text x="93.4" y="128" font-size="11" fill="#8fa0ba" textLength="46.2">Quarkus</text>
+<rect x="158.6" y="112" width="88.0" height="24" rx="12" fill="none" stroke="#2f3b4c"/>
+<text x="169.6" y="128" font-size="11" fill="#8fa0ba" textLength="66.0">PostgreSQL</text>
+<rect x="254.6" y="112" width="68.2" height="24" rx="12" fill="none" stroke="#2f3b4c"/>
+<text x="265.6" y="128" font-size="11" fill="#8fa0ba" textLength="46.2">OpenAPI</text>
+<path d="M392 40 L404 28 M395 28 H404 V37" fill="none" stroke="#5a6b82" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="bd" x=".75" y=".75" width="428.5" height="158.5" rx="8" fill="none" stroke="#2f3b4c" stroke-width="1.5"/>
+</svg>
